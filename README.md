@@ -1,5 +1,5 @@
 <h1 align="center">This is Prottoy Kumar Turja</h1>
-<h3 align="center">A passionate junior flutter developer .</h3>
+<h3 align="center">Flutter Developer .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingmyth&label=Profile%20views&color=0e75b6&style=flat" alt="codingmyth" /> </p>
 
